@@ -6,18 +6,20 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+Laravel es un framework de aplicaciones web con la sintaxis expresiva, elegante. Creemos que el desarrollo debe ser una experiencia agradable, creativo para ser verdaderamente satisfactoria. Laravel intenta tomar el dolor de desarrollo facilitando las tareas comunes que se utilizan en la mayoría de proyectos web, como la autenticación, enrutamiento, sesiones, cola y almacenamiento en caché.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Laravel es accesible, pero potente, que proporciona potentes herramientas necesarias para grandes aplicaciones robustas. Una excelente inversión de contenedor de control, sistema de migración expresivo, y apoyo las pruebas unitarias estrechamente integrada a darle las herramientas que necesita para construir cualquier aplicación con la que tienen la tarea.
 
-## Official Documentation
+## Documentación Oficial
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+La documentación para el Framework se puede encontrar en la [Laravel website](http://laravel.com/docs).
 
-## Contributing
+## Contribuyendo
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Gracias por considerar que contribuye al Framework laravel usted! La guía de contribución se puede encontrar en el [Laravel documentacion](http://laravel.com/docs/contributions).
 
-### License
+### Licencia
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+El Framework laravel es un software de código abierto bajo la licencia [MIT license](http://opensource.org/licenses/MIT)
+http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png
+http://www.creativecommonsvenezuela.org.ve/images/iconos_licencias/cc_by.png
